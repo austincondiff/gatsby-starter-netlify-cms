@@ -4,7 +4,6 @@ backend:
   
 site_url: https://issue-2425.netlify.com
 public_url: https:/issue-2425.netlify.com
-logo_url: https://issue-2425.netlify.com/images/logo.svg
 
 media_folder: static/images
 public_folder: images
