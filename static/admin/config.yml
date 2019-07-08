@@ -12,7 +12,7 @@ collections:
   - name: "posts"
     label: "Posts"
     label_singular: "Post"
-    folder: "src/pages/news"
+    folder: "src/pages/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
